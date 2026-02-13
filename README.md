@@ -1,6 +1,6 @@
 # 📘 Educação Financeira com IA
 
-Projeto acadêmico que utiliza IA como ferramenta de aprendizagem ativa para organizar conteúdos de educação financeira básica.
+Projeto acadêmico que utiliza IA, especificamente o NotebookLLM como ferramenta de aprendizagem ativa para organizar conteúdos de educação financeira básica.
 
 ## 🎯 Objetivo
 

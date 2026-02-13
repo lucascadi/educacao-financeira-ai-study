@@ -15,7 +15,7 @@ Criar um caderno temático digital reunindo fontes abertas sobre finanças intro
 
 - Banco Central do Brasil – Cidadania Financeira
 - CVM – Guia do Investidor
-- Tesouro Direto – Guia Introdutório
+- Tesouro Direto – Aula Completa Youtube canal Investidor Sardinha 
 
 ## 🧠 Metodologia
 
